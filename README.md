@@ -1,12 +1,6 @@
 <img width="825" alt="image" src="https://github.com/shlim0/ios-bank-manager/assets/142188004/d1199a03-9774-4daa-9d6b-8a88a0691286">
 
 
-
-
-
-
-
-
 ### 프로젝트 참여자 🤝
 
 | <img src="https://avatars.githubusercontent.com/u/142188004?v=4" width="90" height="90"> | <img src="https://avatars.githubusercontent.com/u/46235301?v=4" width="90" height="90"> |
@@ -15,6 +9,9 @@
 | JaeHyeok | Jjong |
 
 </br>
+
+### 프로젝트 기간
+2023.10.30 ~ 2023.11.17 (3주)
 
 ### UML
 
